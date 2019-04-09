@@ -1,0 +1,22 @@
+सनरायझर्साक/N-NNP एके/QT-QTC विकेटीन/N-NN जैत/N-NN ./RD-PUNC 
+इंडियन/N-NNP प्रिमीयर/N-NNP लिगेंत/N-NNP काल/N-NST जाल्ले/V-VM-VNF उमळशीक/N-NN वाडोवपी/V-VNG मॅचींत/N-NN येजमान/N-NN सनरायझर्स/N-NNP हैदराबाद/N-NNP पंगडान/N-NN सध्याचो/Unk वस्ताद/N-NN मुंबय/N-NNP इंडियन्साक/N-NNP एके/QT-QTC विकेटींनी/Unk हारयलो/V-VM-VF ./RD-PUNC 
+१४८/QT_QTC धांवड्यांचो/N-NN फाटलाव/N-NN करपी/V-VNG सनरायझर्सान/N-NNP निधारीत/Unk २०/QT-QTC ओव्हरींनी/N-NN ९/QT-QTC विकेटी/N-NN वगडावन/V-VM-VNF जैत/N-NN जोडलें/V-VM-VF ./RD-PUNC 
+ओपनर/N-NN शिखर/N-NNP धवनान/N-NNP सगळ्यांत/RP-INTF चड/QT-QTF ४५/QT-QTC धांवड्यो/N-NN केल्यो/V-VM-VF आसल्यो/V-VM-VNF तरी/CC-CCS सनरायझर्साच्या/N-NNP जैतांत/N-NN दीपर/N-NNP हुडा/N-NNP पर्जळ्ळो/Unk ./RD-PUNC 
+ताणें/PR-PRP नाबाद/N-NN ३२/QT-QTC धांवड्यांची/N-NNखेळी/N-NN करतना/V-VM-VNF पंगडाक/N-NN जैत/N-NN मेळोवन/V-VM-VNF दिलें/V-VM-VF ./RD-PUNC 
+ते/PR-PRP आदीं/N-NST सनरायझर्स/N-NNP हैदराबादाच्या/N-NNP बॉलरांनी/Unk उत्कूश्ट/Unk प्रदर्शन/N-NN करून/V-VM-VNF स्टार/N-NN बॅट्रसमनांनी/Unk भरिल्ल्या/V-VM-VNF मुंबय/N-NNP इंडियन्साचो/N-NNP डाव/N-NN निधारीत/Unk २०/QT-QTC ओव्हरींनी/N-NN ८/QT-QTC बाद/RB १४७चेर/QT_QTC आडायलो/V-VM-VF ./RD-PUNC 
+राजीव/N-NNP गांधी/N-NNP स्टेडियमाचेर/N-NN आयोजीत/RB केल्ले/V-VM-VF हे/DM-DMD मॅचींत/N-NN येजमान/N-NN सनरायझर्स/N-NNP हैदराबादान/N-NNP टॉस/Unk जिखून/V-VM-VNF मुंबय/N-NNP इंडियन्साक/N-NNP पयली/N-NST बॅटींग/N-NN करपाचें/V-VM-VNF आमंत्रण/N-NN दिलें/V-VM-VF ./RD-PUNC 
+येजमान/N-NN पंगडाच्या/N-NN बॉलरांनी/Unk उत्कूश्ट/Unk प्रदर्शन/N-NN केल्ल्यान/V-VM-VNF मुंबय/N-NNP इंडियन्साच्या/N-NNPएकाय/QT-QTC बॅट्रसमनाक/Unk व्हड/JJ खेळी/Unk करपाक/V-VM-VNF जमली/V-VM-VF ना/RP-NEG ./RD-PUNC 
+इव्हीन/N-NNP लेविसान/N-NNP २९/QT-QTC ,/RD-PUNC किरोन/N-NNP पोलार्ड/N-NNP आनी/CC-CCD सूर्यकुमार/N-NNP यादव/N-NNP हाणें/PR-PRP प्रत्येकी/Unk २८/QT-QTC धांवड्यो/Unk केल्यो/V-VM-VF ./RD-PUNC 
+थारावीक/JJ अंतरान/N-NN विकेटी/N-NN पडत/V-VM-VNF गेल्ल्यान/V-VM-VNF मुंबय/N-NNP इंडियन्साक/N-NNP व्हड/JJ स्कोर/RD-UNK उबारपाक/V-VM-VNF जमलो/Unk ना/RP-NEG ./RD-PUNC 
+हैदराबादा/N-NNP वतीन/PSP बिली/N-NNP स्टेनलेक/N-NNP ,/RD-PUNC संदीप/N-NNP शर्मा/N-NNP आनी/CC-CCD सिध्दार्थ/N-NNP कोल/N-NNP हाणें/PR-PRP प्रत्येकी/Unk दोन/QT-QTC विकेटी/N-NN घेतल्यो/V-VM-VF ./RD-PUNC 
+मुखेली/N-NN रोहीत/N-NNP शर्मा/N-NNP (/RD-PUNC ११/N-NNP )/RD-PUNC हाच्या/DM-DMD रुपान/N-NN मुंबय/N-NNP इंडियन्साची/N-NNP पयली/QT-QTO विकेट/N-NN पडली/V-VM-VF ./RD-PUNC 
+ते/PR-PRP उपरांत/N-NST इशान/N-NN किशन/N-NNP हाच्या/DM-DMD रुपान/N-NN मुंबय/N-NNP इंडियन्साक/N-NNP दुसरो/QT-QTO धपको/N-NN बसलो/V-VM-VF ./RD-PUNC 
+इशान/N-NN बाद/RB जाल्या/V-VM-VF उपरांत/N-NST लेविसान/N-NNP आक्रमक/N-NN बॅटींग/N-NN केली/V-VM-VF ./RD-PUNC 
+ताणें/PR-PRP दोन/QT-QTC सके/N-NN आनी/CC-CCD तीन/QT-QTC चवक्यांचे/N-NN मजतीन/N-NN २९/QT-QTC धांवड्यो/N-NN केल्यो/V-VM-VF ./RD-PUNC 
+पूण/CC-CCS पंगडाचो/N-NN स्कोर/RD-UNK ५४/QT-QTC जाल्लो/V-VM-VF त्या/DM-DMD वेळार/N-NN सिध्दार्थ/N-NNPकोलान/N-NNPलेविसाक/N-NNP बोल्ड/N-NN केलो/V-VM-VF ./RD-PUNC 
+ताच्या/PR-PRP उपरांत/N-NST आयिल्लो/V-VM-VF क्रुणाल/N-NNP पांड्या/N-NNP सवाय/JJ भितर/PSP पॅव्हिलियनांत/Unk परत/RB सवाय/JJ भितर/PSP पॅव्हिलियनांत/Unk परत/RB गेलो/V-VM-VF ./RD-PUNC 
+ताका/PR-PRP वैयक्तीक/JJ १५/QT-QTC धांवड्यांचेर/Unk शकीब/N-NNP अल/N-NNP ह्सनान/N-NNP बाद/RB केलो/V-VM-VF ./RD-PUNC 
+किरोन/N-NNP पोलार्डान/N-NNP कांय/QT-QTF आकर्शक/JJ शॉर्ट/RD-UNK मारले/V-VM-VF ./RD-PUNC 
+पूण/CC-CCS ,/RD-PUNC ताका/PR-PRP लेगीत/PSP चड/QT-QTF वगत/N-NN खेळपट्रटीचेर/N-NN रावपाक/V-VM-VNF जमलें/V-VM-VNF ना/RP-NEG ./RD-PUNC 
+२३/QT-QTC बॉलांनी/N-NN २८/QT-QTC धांवड्यो/N-NN करून/V-VM-VNF तो/PR-PRP स्टेनलेकाचो/N-NNP शिकार/N-NN थारलो/V-VM-VF ./RD-PUNC 
+बेन/N-NNPकटिंग/N-NNP राशिद/N-NNP खानाची/N-NNP गुगली/N-NN समजुपाक/V-VM-VNF अपेशी/RB थारलो/V-VM-VF आनी/CC-CCD ९/QT-QTC धांवड्यो/N-NN करून/V-VM-VNF परत/RB गेलो/V-VM-VF ./RD-PUNC 
